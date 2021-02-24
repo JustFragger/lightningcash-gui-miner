@@ -1,0 +1,23 @@
+e:\src\myrminer\myrminer\myrminer\bin\Release\myrminer.exe.config
+e:\src\myrminer\myrminer\myrminer\bin\Release\myrminer.exe
+e:\src\myrminer\myrminer\myrminer\bin\Release\myrminer.pdb
+e:\src\myrminer\myrminer\myrminer\bin\Release\myrminer.xml
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.vbprojResolveAssemblyReference.cache
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.Form1.resources
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.Resources.resources
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.vbproj.GenerateResource.Cache
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.exe
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.xml
+e:\src\myrminer\myrminer\myrminer\obj\Release\myrminer.pdb
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\myrminer.vbprojAssemblyReference.cache
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\myrminer.vbproj.GenerateResource.cache
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\myrminer.vbproj.CoreCompileInputs.cache
+E:\Downloads\myrminer-master\myrminer-master\myrminer\bin\Release\LightningCash GUI Miner.exe.config
+E:\Downloads\myrminer-master\myrminer-master\myrminer\bin\Release\LightningCash GUI Miner.exe
+E:\Downloads\myrminer-master\myrminer-master\myrminer\bin\Release\LightningCash GUI Miner.pdb
+E:\Downloads\myrminer-master\myrminer-master\myrminer\bin\Release\LightningCash GUI Miner.xml
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\lncguiminer.Form1.resources
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\lncguiminer.Resources.resources
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\LightningCash GUI Miner.exe
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\LightningCash GUI Miner.xml
+E:\Downloads\myrminer-master\myrminer-master\myrminer\obj\Release\LightningCash GUI Miner.pdb

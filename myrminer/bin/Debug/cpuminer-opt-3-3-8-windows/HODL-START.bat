@@ -1,0 +1,1 @@
+cpuminer.exe -a m7m -o stratum+tcp://m7m.eu.mine.zergpool.com:6033 -u DAQRLSEu8kaNUxvoav3CHwAQMRNsWFtAcs -p c=DOGE,mc=NOBL -t 4
