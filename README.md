@@ -1,4 +1,5 @@
 # LightningCash GUI Miner
+![Screenshot_2](https://user-images.githubusercontent.com/16962301/108995067-de362c00-769c-11eb-9287-8c080d0477de.png)
 This is a GUI wrapper made with VB .net for a yespowerltncg cpuminer. 
 Rather than enter arguments on the command line, or create a batch file, the user can just open the program and fill the fields.
 
